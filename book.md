@@ -1,0 +1,2 @@
+# CollaborativeBook
+**Mario and Hassineen** run the **EcoTracker** GitHub repository, focused on helping people reduce their environmental footprint. Mario, a data scientist, designed the user-friendly dashboard, while Hassineen, a software engineer, built the backend for tracking energy, water, and emissions data. Their repository offers real-time impact insights and practical tips for sustainable living!
